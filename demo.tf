@@ -15,5 +15,5 @@ output "test" {
 }
 
 output "test2" {
-  value = local.arr 3
+  value = local.arr3
 }
